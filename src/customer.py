@@ -6,4 +6,4 @@ class Customer:
 
 
     def give_money_to_coffeeshop(self, drink):
-        self.wallet -= drink.price
+        self.wallet -= drink
